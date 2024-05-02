@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @xlisa93
-- 👀 I’m interested in learning more about coding and all the carreer opportunities. Can't wait to get started!
+- 👋 Hi, I’m Lisa
+- 👀 I’m interested in learning more about coding and all carreer opportunities in the IT world. Can't wait to get started!
 - 🌱 I’m currently learning to become a front-end developer and make a career switch
 - 💞️ I’m looking to collaborate on any interesting projects. Who knows what's in store for me? :) 
 - 📫 How to reach me: just send me a message on GitHub
